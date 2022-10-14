@@ -64,6 +64,13 @@
             <artifactId>nimbus-jose-jwt</artifactId>
             <version>9.25.5</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.bitbucket.b_c/jose4j -->
+        <dependency>
+            <groupId>org.bitbucket.b_c</groupId>
+            <artifactId>jose4j</artifactId>
+            <version>0.9.0</version>
+        </dependency>
+
 
     </dependencies>
 

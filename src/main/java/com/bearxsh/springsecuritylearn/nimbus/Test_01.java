@@ -7,6 +7,9 @@ import io.jsonwebtoken.JwtException;
 
 import java.text.ParseException;
 
+/**
+ * HS256
+ */
 public class Test_01 {
 
     public static final String SECRET = "bellfsdafafwrqwerqwerqwerweqrwerwerwqrweqrwe";
